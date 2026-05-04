@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cd frontend && npm install --include=dev && npx vite build",
-  "outputDirectory": "frontend/dist"
-}
